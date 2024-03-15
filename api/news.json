@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war",
+        "image-background": "img/artillery.svg",
+        "socials-twitter": "img/twitter-logo.svg",
+        "socials-telegram": "img/telegram-logo.svg",
+        "socials-facebook": "img/facebook-logo.svg"
+    },
+    {
+        "id": "2",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war",
+        "image-background": "img/troops-in-shadow.svg",
+        "socials-twitter": "img/twitter-logo.svg",
+        "socials-telegram": "img/telegram-logo.svg",
+        "socials-facebook": "img/facebook-logo.svg"
+    },
+    {
+        "id": "3",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war",
+        "image-background": "img/troops-with-ammunition.svg",
+        "socials-twitter": "img/twitter-logo.svg",
+        "socials-telegram": "img/telegram-logo.svg",
+        "socials-facebook": "img/facebook-logo.svg"
+    },
+    {
+        "id": "4",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war",
+        "image-background": "img/artillery.svg",
+        "socials-twitter": "img/twitter-logo.svg",
+        "socials-telegram": "img/telegram-logo.svg",
+        "socials-facebook": "img/facebook-logo.svg"
+    },
+    {
+        "id": "5",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war",
+        "image-background": "img/troops-in-shadow.svg",
+        "socials-twitter": "img/twitter-logo.svg",
+        "socials-telegram": "img/telegram-logo.svg",
+        "socials-facebook": "img/facebook-logo.svg"
+    },
+    {
+        "id": "6",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war",
+        "image-background": "img/troops-with-ammunition.svg",
+        "socials-twitter": "img/twitter-logo.svg",
+        "socials-telegram": "img/telegram-logo.svg",
+        "socials-facebook": "img/facebook-logo.svg"
+    }
+]
