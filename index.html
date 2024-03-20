@@ -5,16 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/index.css">
 </head>
-<header src="index.header.partial.html"></header>
 
 <body>
-
-    <section src="index.body-main-news.partial.html"></section>
-    <section src="index.body-caurosel.partial.html"></section>
-    <section src="index.body-extra-news.partial.html"></section>
+    <header data-include="index.header.partial.html"></header>
+    <section data-include="index.body-main-news.partial.html"></section>
+    <section data-include="index.body-caurosel.partial.html"></section>
+    <section data-include="index.body-extra-news.partial.html"></section>
 </body>
-<footer src="footer.html"></footer>
-<script src="js/loading-partials.js"></script>
+<footer data-include="footer.html"></footer>
+<script src="https://unpkg.com/html-data-include@3.3.3/html-data-include.js"></script>
 <script src="js/index.js"></script>
+
 </html>

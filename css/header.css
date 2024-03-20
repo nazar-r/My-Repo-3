@@ -1,0 +1,23 @@
+.header-container {
+    color: var(--text-color);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/header-background.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    min-height: 600px;
+    padding: 0 40px;
+}
+
+.header-list {
+    padding: 20px 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.header-article__paragraph {
+    max-width: 240px;
+    margin: 140px 0;
+}
+
+.header-article__item {
+
+    
+}

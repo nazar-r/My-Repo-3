@@ -11,11 +11,15 @@ const fetchNews = async () => {
     }
 };
 
-const renderNews = (news,) => {
+const renderNews = (news) => {
     const newsContainer = document.querySelector("");
     newsContainer.innerHTML = news
         .map(
-            (news) //add the html
+            (news)`<section class="news-card">
+            <p class="news-card__article">Newsbar</p>
+            <p class="news-card__content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem voluptate</p>
+            <p class="news-card__description"> <span class="description-time"></span></p>
+        </section>`
         )
         .join("");
 };
