@@ -1,7 +1,26 @@
 [
-{
-"id": "1",
-"article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war, the economist says",
-"bcakground": "img/header-background.png"
-}
+    {
+        "id": "1",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war, the economist says",
+        "background": "/img/header-background.png",
+        "time": "9:30",
+        "date": "Sarurday",
+        "status": "Exclusive"
+    },
+    {
+        "id": "1",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war, the economist says",
+        "background": "/img/troops-in-shadow.png",
+        "time": "9:30",
+        "date": "Sarurday",
+        "status": "Exclusive"
+    },
+    {
+        "id": "1",
+        "article": "Volodymyr Zelensky tells about how Ukraine is preparing for a long war, the economist says",
+        "background": "/img/artillery.png",
+        "time": "9:30",
+        "date": "Sarurday",
+        "status": "Exclusive"
+    }
 ]
